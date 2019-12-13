@@ -17,7 +17,7 @@ In this assignment we got instructions to make the different parts. We then had 
 
 This is a picture of the final product.
 
-<img src="Media/Gearbox.PNG" width="300">
+<img src="Media/Gearbox.PNG" width="500">
 
 
 ## Motion Study
@@ -35,4 +35,4 @@ In this assignment I was given the instructions to build the different parts and
 
 This is a picture of the final assembly of my motion study.
 
-<img src="Media/MotionStudy.PNG" width="300">
+<img src="Media/MotionStudy.PNG" width="500">
